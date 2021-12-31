@@ -4,6 +4,11 @@ This is Weather AR application.
 You can check current weather info based on your current location.
 You can check Hourly and Daily Forecast as well.
 
+The weather info is imported from some APIs.
+API: OpenWeatherMap API, ipinfo API
+
+ipinfo API will return current geographical JSON data based on user's IP address.
+OpenWeatherMap API will return weather info based on user's geographical data.
 
 
 
